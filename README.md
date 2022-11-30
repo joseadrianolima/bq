@@ -1,17 +1,17 @@
 # bq
 
-Determinar a estrutura:
+Determine its structure:
 > bq
 > rel ABC
 > di ABC
 
-Ler primeiro e último registro
+Read first and last register
 > bq
 > rel ABC
 > re f
 > re l
 
-Ler registro 10, 11, 12:
+Read register 10, 11, 12:
 > bq
 > rel ABC
 > key(10)
